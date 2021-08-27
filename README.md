@@ -1,4 +1,4 @@
-# edat2021-22
+# edat2021-22 (1st assignment)
 Public repository for EDAT 2021-22
 
 
