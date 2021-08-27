@@ -1,5 +1,4 @@
 # edat2021-22 (1st assignment)
-Public repository for EDAT 2021-22
 
 
 Follows instruction to clone this repository and create a *private* one
